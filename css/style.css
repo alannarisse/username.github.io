@@ -22,10 +22,12 @@ header {
 	color: BlanchedAlmond;
 	min-height: 100px;
 	margin-top: 60px;
+	background-image: url("../images/stars.jpeg");
 }
 
 header h1 {
 	padding: 40px 60px;
+	font-size: 48px;
 }
 
 
