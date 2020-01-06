@@ -1,3 +1,7 @@
+* {
+	box-sizing: border-box;
+}
+
 body {
 	background: #FAEBD7 url('../images/vintage-concrete.png');
 	color: #333;
@@ -57,13 +61,12 @@ section ul, aside ul {
 	list-style-type: square;
 	margin-top: 20px; 
 	margin-left: 30px;
+	margin-bottom: 40px;
 }
 
 aside {
 	padding: 40px 10px;
 }
-
-
 
 /* Footer styles */
 footer { 
